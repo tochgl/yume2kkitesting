@@ -1,0 +1,152 @@
+これは、共有素材のリストです。
+このリストに記載されている素材群には、ゆめ２っき内の利用に関して"素材利用ルール"等の制限が課せられません。
+
+【表記の決まり】
+ .* とされている箇所は、文字列の内容や長さを問わない。 
+(例：Pic.* の場合は Picture も Pic01 も含む)
+
+末尾に <1> 等と書かれているファイルは、画像内の一部のみが対象である。
+表記はツクール内の"キャラクターの動作指定"等に準じ、左上を1、左下を5とする。
+なお、複数ある場合はカンマ区切りでの表記を推奨する。
+
+
+【Battle(戦闘アニメ)】
+・system-anime.*
+・system-animeSRa.png
+・しぶき紫.png
+・しぶき緑.png
+・炎1.png
+
+【CharSet(キャラチップ)】
+・#null
+・#System_EVicon.*
+・2i9_charset18
+・2i9_SR1（※1）
+・39ninme_CharSet_GB_hoho.*
+・39ninme_CharSet_GB_suwari1
+・39ninme_CharSet_GB_syujinkou.*
+・710_Charset_doramukan
+・710_Charset_kariehule_1
+・710_Charset_kariehule_2<-1>
+・710_Charset_kariehule_2<-2>
+・710_Charset_kariehule_2<-3>
+・710_Charset_kariehule_2<-4>
+・CharSet_03_plus
+・CharSet_usamimi
+・effect.*
+・galaxy.*（※2）
+・game_bomb
+・game_fly_c
+・game_hoho.*
+・game_swim_c
+・game_walk.*
+・genjitu tobira rooms
+・kura-kaihen_20_Charset_32
+・kura-kaihen_system_kyouyu_gazou02
+・kura_system_kyouyu_gazou03+
+・kodomo.*
+・library
+・marjinal
+・megane
+・mix
+・mushiex
+・pinu_CharSet_03<-2>
+・pinu_CharSet_03<-6>
+・SR_another.*
+・starman.*（※2）
+・system_kyouyu.*
+・syujinkou_act.*
+・syujinkou_bike_helmet
+・syujinkou_costume.*（※2）
+・syujinkou_effect.*
+・syujinkou_hashigo01
+・syujinkou_hoho1
+・syujinkou_ice action（※2）
+・syujinkou_kisekae2<-7>
+・syujinkou_kisekae2<-8>
+・syujinkou_kura
+・syujinkou_kobito
+・syujinkou_Ladder.*
+・syujinkou_sit
+・syujinkou_sit_back.*
+・syujinkou_suwari.*
+・syujinkou_tron
+・syujinkou_usamimi_act
+・syujinkou_usamimi_new
+・syujinkou1
+・syujinkou2
+・uro_action<-6>
+・uro_action<-7>
+
+【ChipSet(マップチップ)】
+・galaxy.*（※2）
+・genjitu beya.*
+
+【FaceSet(顔グラフィック)】
+・2i9_faceset1
+・SR_another_system_faceinfo
+・syujinkou_omen.*
+・syujinkou_sabun.*
+・syujinkou.*
+
+【Gameover(ゲームオーバーグラフィック)】
+・dammy
+
+【music(BGMファイル)】
+
+
+【Panorama(遠景)】
+・#null
+・2i9_GB
+・2i9_RB
+・2i9_SRa.*（※1）
+・galaxy.*（※2）
+・SR.*（※1）
+
+
+【Picture(ピクチャ)】
+・■ - コピー
+・■
+・000window
+・2i9_SRa.*（※1）
+・book cover red real
+・book cover red
+・cassette sample
+・color bar
+・effect get window
+・galaxy.*（※2）
+・komo.*
+・kura_QuickSelect02
+・kura_QuickSelect03
+・pc yumegamen.*（※3）
+・picture-tish
+・setumeisyo.*
+・sheep
+・shitawaku.*
+・SR.*（※1）
+・system.*
+・syujinkou.*
+・tv waku.*
+・ノイズ.*
+
+【Sound(効果音)】
+
+
+【System(システムグラフィック)】
+
+
+【Title(タイトル画面)】
+・title3
+・title3_2
+・title3_2(e)
+
+
+
+（※1）基本的には共有割り当て（繋ぎ部屋、権利破棄されたマップを除く）内でのみ利用可能。
+　　　 これらは他作者の素材の改変物であるため、もしこの素材を利用する場合は、その改変元素材の利用規約
+　　　 （もしくは素材利用ルール）に則って行う。
+
+（※2）素材の作者自身が権利を破棄する宣言をしているため、便宜上 共有素材としている。
+　　　 スターマン(GALAXY)氏 ... 自作マップや素材に関する権利を全て破棄している(スレ17部屋目 >>284より)
+
+ (※3) 壁紙、メニュータイプ、夢部屋のPC背景は共有素材ではない
